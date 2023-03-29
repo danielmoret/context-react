@@ -19,7 +19,7 @@ const Home = () => {
     <div className="container mt-5">
       <h1 className="text-center">Contact list</h1>
       <div className="text-end p-2">
-        <Link to="/newcontact" className="btn btn-success">
+        <Link to="/newcontact" className="btn btn-warning">
           Add a new contact
         </Link>
       </div>
